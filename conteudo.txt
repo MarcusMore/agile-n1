@@ -1,0 +1,41 @@
+Nome: Agile N1
+
+Missão, visão e valores
+
+Sugestão: 
+
+> Sobre
+Missão: Ser a consultoria que melhor entende e satisfaz as necessidades dos clientes e oferecer serviços com excelência. 
+
+Visão: Sermos reconhecidos no Brasil como referência em Gestão de Projetos Ágeis e transformação.
+
+Valores: respeito, cooperação, inovação, integridade e honestidade
+
+
+
+> Serviços
+- Consultoria: Melhorar experiência do usuário, gestão da mudança, inovação, transformação e redução de custos
+ - Suporte na criação de objetivos e resultados-chave estratégicos do negócio 
+ - Suporte do processo de descoberta de novos produtos e funcionalidades
+ - Gestão do fluxo das entregas
+ - Gestão da capacidade e alocação de pessoas
+ - Criação de dashboards com visão executiva, tática e operacional
+ - Integração de ferramentas de gestão: Jira, powerBI
+ - Criação de assessments de maturidade
+
+- Treinamentos:
+ - Capacitação de colaboradores em todas as frentes do ágil
+ - Personalização de acordo com as necessidades do cliente
+
+- Terceirização: Agile Coach Enterprise, Agile Coach, Agile Master, Product Owner, Product Manager
+ - Processo de seleção integrado ao do cliente ou customizado para o cliente
+ - Suporte na elaboração de mapeamento de competências do time alocado no cliente
+
+> Equipe
+
+> Contato 
+
+> Parcerias
+
+
+> artigos

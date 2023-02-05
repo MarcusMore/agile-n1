@@ -1,0 +1,47 @@
+<script>
+    function msg(){
+        alert('Mensagem enviada')
+    }
+</script>
+
+<div class="container">
+
+    <div class="col-xs-12 col-sm-6 col-md-4">
+
+    </div>
+
+    <form action="/form" method="POST" id="form" class="form-floating">
+        <div class="mb-3 row">
+            <label for="" class="col-sm-3 col-form-label">Assunto:</label>
+            <div class="col-sm-10">
+                <input class="form-control" oninvalid="document.getElementById('dataList').classList.add('is-invalid')" name="titulo" list="datalistOptions" id="dataList" placeholder="Escreva ou clique para procurar..." required>
+                <datalist id="datalistOptions">
+                <option value="Outsourcing">
+                <option value="Treinamento">
+                <option value="Consultoria">
+                <option value="Parceria">
+                <option value="Dúvidas">
+                </datalist>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label for="floatingInputInvalid" class="col-form-label">E-mail:</label>
+            <div class="col-sm-10">
+                <input type="email" name="email" class="form-control" oninvalid="document.getElementById('floatingInputInvalid').classList.add('is-invalid')" id="floatingInputInvalid" placeholder="nome@exemplo.com" required>
+             </div>
+        </div>
+        <div class="mb-3 row">
+            <label for="txt-area" class="col-form-label">Mensagem:</label>
+            <div class="col-sm-10">
+                <textarea class="form-control" oninvalid="document.getElementById('txt-area').classList.add('is-invalid')" name="conteudo" id="txt-area" rows="4" cols="10" maxlength="300" required></textarea>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="">
+                <button type="submit" class="btn btn-primary" onsubmit="validado()">Enviar</button>
+            </div>
+        </div>
+            
+    </form>
+</div>
+
